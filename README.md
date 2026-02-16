@@ -1,6 +1,6 @@
-# Organizador_Declaracao_IR
+# 🦁 Organizador_Informacoes_Declaracao_IR (Excel)
 
-🦁 Agregador de Informações para Imposto de Renda (Excel)
+Origem: Bootcamp SOA / DIO - Excel+AI.
 
 ## 📌 Sobre o Projeto
 Este projeto tem como objetivo organizar, de forma visual e estruturada, as principais informações necessárias para a declaração de imposto de renda de pessoa física.
